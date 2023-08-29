@@ -1,2 +1,1 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+This repo contains code I refactored for lyft backend engineering virtual work experience program
